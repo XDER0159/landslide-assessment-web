@@ -1,0 +1,5 @@
+streamlit>=1.30.0
+scikit-learn>=1.0.0
+shap>=0.40.0
+pandas>=1.4.0
+numpy>=1.22.0
